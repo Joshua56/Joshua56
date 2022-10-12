@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Joshua56
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Joshua Chirchir
+- 👀 I’m interested in learning more about code
+- 🌱 I’m currently learning computer vision
+- 💞️ I’m looking to collaborate on Google and more developers
+- 📫 How to reach me josh.chirchir96 or +254718428018
 
 <!---
 Joshua56/Joshua56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
